@@ -1,4 +1,15 @@
 {
-  "version": "2.6.2",
-  "url": "https://work.ink/3bmH/sbot-app"
+  "payload": {
+    "allow_rollback": false,
+    "channel": "stable",
+    "expires_at": 1796904694,
+    "issued_at": 1795695094,
+    "product": "quantum-sbot",
+    "repository": "silentsupt/AS-SBOT",
+    "schema": 1,
+    "sequence": 2,
+    "url": "https://work.ink/3bmH/sbot-app",
+    "version": "2.6.3"
+  },
+  "signature": "uo0WZC3QqxTIagOMLmaAoN03RcEg8j9dMIAfrLxIr7PRnil3v8I3mKwEzAkKIjUndNYBRDYn1pBAN+bqfDy8AQ=="
 }
